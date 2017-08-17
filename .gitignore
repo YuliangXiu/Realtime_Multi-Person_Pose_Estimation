@@ -1,2 +1,4 @@
 *.caffemodel
 *.m~
+*.npy
+/caffe_rtpose
